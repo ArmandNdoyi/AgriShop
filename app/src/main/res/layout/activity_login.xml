@@ -63,7 +63,7 @@
         app:layout_constraintWidth_percent=".4"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:onClick="Signin"
+        android:onClick="signin"
         android:text="Sign In"
         android:padding="15dp"
         android:textStyle="bold"
