@@ -7,4 +7,6 @@
     <string name="third_slide">Good Service</string>
 
     <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non porttitor turpis, sit amet porttitor libero. Nulla dignissim pretium risus eget ullamcorper. Sed enim dui, maximus et congue ac, molestie sed mi. Integer gravida sapien ac odio iaculis tempus. Donec cursus luctus ornare. Vivamus tristique magna at purus egestas mattis.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

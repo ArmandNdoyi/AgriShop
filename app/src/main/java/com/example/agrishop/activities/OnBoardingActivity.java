@@ -1,7 +1,6 @@
-package com.example.agrishop;
+package com.example.agrishop.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
 import android.content.Intent;
@@ -14,6 +13,9 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.agrishop.R;
+import com.example.agrishop.adapters.SliderAdapter;
 
 public class OnBoardingActivity extends AppCompatActivity {
 
